@@ -2,28 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29b243b5-5de7-4b61-a6ee-0ed02f5ba550" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-00-Controller/js/Controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-01-Controller-definieren/js/ctrl/CtrlModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-02-Controller-zuweisen/js/ctrl/CtrlModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project02/02-06-Abhaengigkeiten/js/MainModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project02/02-07-Model-Modul/js/MainModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-00-Controller/js/MainModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-01-Controller-definieren/js/MainModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-02-Controller-zuweisen/js/MainModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project02/02-07-Model-Modul/js/model/ModelModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-00-Controller/js/model/ModelModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-01-Controller-definieren/js/model/ModelModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-02-Controller-zuweisen/js/model/ModelModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project02/02-06-Abhaengigkeiten/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project02/02-07-Model-Modul/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-00-Controller/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-01-Controller-definieren/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-02-Controller-zuweisen/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project02/02-06-Abhaengigkeiten/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project02/02-07-Model-Modul/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-00-Controller/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-01-Controller-definieren/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project03/03-02-Controller-zuweisen/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AngularJS.iws" />
@@ -299,7 +277,11 @@
       <created>1410869202931</created>
       <updated>1410869202931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update course - Controllers">
+      <created>1410869308926</created>
+      <updated>1410869308926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -347,7 +329,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Update course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update course" />
+    <MESSAGE value="Update course - Controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update course - Controllers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
